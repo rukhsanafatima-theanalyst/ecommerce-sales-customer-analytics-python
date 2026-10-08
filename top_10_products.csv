@@ -1,0 +1,11 @@
+product_id,product_name,category,units_sold,gross_revenue,avg_rating
+P001925,Willow Hospital,Automotive,640,858086.4,3.69
+P001036,Pulse Security,Electronics,544,585153.6,3.88
+P000731,Pulse Treat,Electronics,429,530424.18,3.82
+P001227,GreenLeaf System,Electronics,420,529485.6,4.33
+P000803,GreenLeaf Item,Electronics,468,446018.04,3.75
+P001527,Willow Result,Electronics,209,425402.78,3.64
+P001143,Orion Number,Electronics,312,417621.36,3.0
+P000954,Harbor Cost,Automotive,630,416757.6,3.87
+P001278,Willow Community,Electronics,340,406279.6,4.0
+P000198,Orion Face,Electronics,300,405789.0,3.5

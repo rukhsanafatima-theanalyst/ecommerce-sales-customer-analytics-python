@@ -1,0 +1,6 @@
+order_status,total_orders,total_order_value,order_percentage
+shipped,4113,2423866.56,20.57
+returned,4066,2426918.02,20.33
+completed,4021,2419712.58,20.11
+cancelled,3920,2298700.13,19.6
+processing,3880,2349471.66,19.4

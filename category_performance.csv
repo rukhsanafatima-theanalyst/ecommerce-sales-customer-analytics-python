@@ -1,0 +1,11 @@
+category,total_products,total_units_sold,total_revenue,avg_category_rating
+Electronics,203,35900,30439067.72,3.56
+Automotive,193,36002,15652887.63,3.53
+Home & Kitchen,199,36045,6900475.43,3.54
+Sports,183,35670,5956274.42,3.53
+Clothing,213,40299,4463526.55,3.56
+Beauty,207,41690,3622282.98,3.57
+Toys,213,43570,2608012.5,3.55
+Pet Supplies,212,43021,2284032.69,3.59
+Books,194,38713,1783863.4,3.54
+Groceries,183,32891,540396.51,3.54
